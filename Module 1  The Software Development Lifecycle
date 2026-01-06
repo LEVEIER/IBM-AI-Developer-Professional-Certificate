@@ -1,0 +1,78 @@
+Section 1  Introduction to Software Engineering
+Definition:
+        Software Engineering is the application of secientific principles, to design and create software.
+        Systematic approach to software development. ( Design -> Build -> Test , to require demands)
+Software cirsis:Initially, the creation of software lacked a formal development process. As the world widely adopted computers, software became increasingly integral to more aspects of life. 
+        The inefficiencies in the software development process made it difficult to meet the rapidly increasing demand for computing resources and complex software. 
+        This led to what is known as the software crisis, which began in the mid-1960s and lasted until the mid-1980s.
+        During this period, software development often ran over budget, behind schedule, and consisted of unmanageable, buggy code. 
+        By the time older software solutions came to fruition, newer, better, and faster technologies had already been developed, causing software engineers to have to refactor their code or completely redesign their system. 
+
+   Software Engineering  VS  Software  Developer
+      Also developer            narrower in scope than SE
+     Broad, big picture          creative approaches
+     knowledge base
+
+    Systematic development       write code to implement specific
+     process                     functionality and solve specific problems
+
+Responsibilities of a software engineer 
+    include designing, building, and maintaining software systems,
+    writing and testing code, and consulting with stakeholders, third-party vendors, security specialists, and other team members. 
+
+Software Engineering Life Cycle (SDLC)
+        is a scientific approach to software engineering
+        Guides to software development process
+        Identifies discrete steps needed to develop software 
+
+The Software Development Life Cycle, known as the SDLC, is a systematic process to develop high-quality software in a predictable timeframe and budget.
+        The goal of the SDLC is to produce software that meets a client’s business requirements.
+        The SDLC defines phases of the software development process that encompass their own process and deliverables. 
+        It is a cycle of planning, design, and development that can be implemented as an iterative approach to software development.
+        Adherence to the SDLC minimizes risks and costs to the development of high-quality, deployable software. 
+
+ There are some key advantages for businesses in following the SDLC. 
+The first advantage is that it gives development teams a process to follow rather than using an ad hoc approach to improve efficiency and reduce risks.
+Secondly, there are discrete phases to the SDLC. Each phase is well defined so that team members know what they should be working on and when. 
+The SDLC offers an overview of the process, so stakeholders know where they fit in to that process.
+Also, since each phase is discrete, cross-domain teams know when they have completed their tasks and when development can move to the next phase.
+The SDLC provides room for iteration where, at the end of a cycle, the process can circle back to incorporate additional requirements as needed. 
+Problem solving is incorporated early in the cycle so problems are addressed in a timely fashion and can be addressed in the design phase rather than during coding.
+Finally, each team member has a well-defined role which reduces conflict and overlapping responsibilities. 
+
+There are generally six phases in the SDLC process, planning, design, development, testing, deployment, and maintenance.
+ Note that some organizations may have different names for each stage. 
+Also, some organizations may have additional or fewer stages. 
+
+
+After requirements have been gathered, they are combined into a document called a software requirements specification, or SRS, document. The SRS needs to be clearly understood and approved by all stakeholders. 
+The developers are also involved at this stage so they can gain a clear understanding of these requirements. Requirements and the SRS will be discussed in more detail in a later video. 
+
+
+In the design phase, the requirements gathered from the SRS are used to develop the software architecture. Several team members work together at this stage to design the architecture. 
+The architecture is reviewed by the stakeholders and team. And during this phase, prototypes can be designed. A prototype is a preliminary mock-up of the system, or parts of the system, used for demonstration purposes.
+The document created in this phase is called a design document, and is used by developers during the next phase, which is the development phase. 
+The development phase, sometimes called the “building" phase or the "implementation" phase, is when the developers start the coding process once the design document is completed. 
+The project planners use the design document to determine and assign coding tasks. 
+This phase often requires the use of programming tools, different programming languages, and software stacks. Organizations may also have standards or guidelines that need to be followed. The testing phase is next in the process once the coding is complete.
+And some large projects have dedicated testing teams. Code needs to be thoroughly tested to ensure it is stable, secure, and meets the requirements outlined in the SRS. Testing can be manual, automated, or a hybrid of both. 
+Product bugs are reported, tracked, and fixed, and code is retested until the software is stable. Some common levels of testing include unit testing, integration testing, system testing, and acceptance testing.
+Each of these testing levels will be described in further detail in another video. The deployment phase is where the application is released into the production environment and made available to users.
+This can also happen in stages— first, it is released onto a user acceptance testing, also called UAT, platform and once the customer signs off on the functionality, it is released to production. 
+This approach can be used for making software available on a website, mobile device app store, or a software distribution server on a corporate network.
+Finally, the maintenance phase happens once the code has been deployed into a production environment. 
+This phase helps to find any other bugs, identify user interface issues, or UI for short, and identify other requirements that may not have been listed in the SRS. Code enhancements can also be identified at this stage.
+If bugs are discovered in this phase that were missed during testing, these errors may need to be fixed for high-priority issues or incorporated into the requirements as part of a future software release and the process can start over again. 
+
+
+
+ The software requirements specification, or SRS, is a document that captures the functionalities that the software should perform and also establishes benchmarks or service levels for its performance. Parts of an SRS include:
+A purpose statement that contains the intended use of the SRS, its audience and scope, constraints, assumptions and dependencies, and requirements, 
+which can be sorted into four categories: Functional requirements External Interface requirements System Features and Non-functional requirements 
+
+
+
+
+
+
+
